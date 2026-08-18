@@ -32,5 +32,4 @@
 
 * 🎓 **Formação:** Estudante de Ciência da Computação
 * 🎯 **Principais Habilidades:** Exatas, Comunicação, Trabalho em Equipe e Organização
-* 🤝 **Voluntariado:** LEO Clube Sarandi
 * 🌐 **Idiomas:** Português (Nativo) | Inglês (Intermediário)
