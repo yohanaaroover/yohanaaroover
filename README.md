@@ -7,21 +7,18 @@
 
 <!-- CARD DE APRESENTAÇÃO COMPATÍVEL COM TEMA ESCURO -->
 <div align="center">
-
-      <td>
-        <h1> Yohana Rover </h1>
-        <p> <strong> Estudante de Ciências da Computação | Dev Enthusiast</strong></p>
-        <p> Sarandi, Rio Grande do Sul - Brasil</p>
-       
-      </td>
-
+  <div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px; border: 1px solid #30363d; max-width: 500px; font-family: sans-serif;">
+    <h1 style="color: #58a6ff; margin-bottom: 5px;">Yohana Rover</h1>
+    <p style="margin: 5px 0;"><strong>Estudante de Ciência da Computação | Dev Enthusiast</strong></p>
+    <p style="color: #8b949e; margin-top: 5px;">📍 Sarandi, Rio Grande do Sul - Brasil</p>
+  </div>
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/UNIVERSIDADE-UPF-FF0055?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/FOCO-DESENVOLVER_FRONT - END-00FF66?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/FOCO-DESENVOLVER_FRONT-END-00FF66?style=for-the-badge&logoColor=black" />
 </div>
 
 <br>
